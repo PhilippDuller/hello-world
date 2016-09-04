@@ -5,5 +5,5 @@ int main(void)
 {
 	printf("Test!\n");
 	
-	return -2;
+	return -1;
 }
